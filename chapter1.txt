@@ -1,4 +1,1 @@
-this is chapter 1
-this is line two of chapter 1.
-
-Now branching will be done
+this is the contant of new branch
